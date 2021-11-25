@@ -27,7 +27,7 @@ namespace CommandService.Controllers
 
 
 
-        public PlatformsController(object service)
+        public PlatformsController()
         {
 
         }
